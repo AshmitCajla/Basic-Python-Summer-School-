@@ -1,2 +1,2 @@
 # Summer-School Assignment 1
-Projects
+Assignment 1
