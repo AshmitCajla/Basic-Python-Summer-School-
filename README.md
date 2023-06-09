@@ -1,2 +1,2 @@
-# Summer-School Assignment 1
+# Basic Python (Summer-School) 
 Assignment 1
